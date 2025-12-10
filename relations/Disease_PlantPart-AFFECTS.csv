@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q008,S096,탄저병은 딸기 줄기·엽병·관부 조직을 괴사시킨다.,Disease,탄저병,AFFECTS,PlantPart,줄기/엽병/관부,병이 식물 기관을 침해,http://purl.obolibrary.org/obo/RO_0002215,
+Q008,S098,시들음병은 뿌리를 썩게 한다.,Disease,시들음병,AFFECTS,PlantPart,뿌리,병이 특정 식물기관을 손상,http://purl.obolibrary.org/obo/RO_0002215,

@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q009,S102,9월 딸기 재배 시 발생하는 주요 해충은 파밤나방이다.,Crop,딸기,AFFECTED_BY,Pest,파밤나방,딸기가 특정 해충의 피해를 받는 관계,http://purl.obolibrary.org/obo/RO_0002556,

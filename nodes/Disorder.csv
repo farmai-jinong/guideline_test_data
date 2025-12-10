@@ -1,0 +1,5 @@
+﻿Question_no,term_id,term_ko,label,description
+Q001,T025,고온_피해,Disorder,온도가 너무 높아 생육에 나쁜 영향을 주는 상태
+Q004,T047,질소_결핍,Disorder,육묘기 딸기에서 잎이 작아지고 연녹색이 되는 질소 부족 생리장해
+Q004,T048,칼슘_결핍,Disorder,설향 등에서 육묘기와 수확기에 자주 나타나는 칼슘 부족 생리장해
+Q010,T120,생리장해,Disorder,환경·영양 불균형으로 발생하는 비병리적 생육 문제

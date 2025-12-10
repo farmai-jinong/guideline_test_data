@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q008,S100,토양 소독은 탄저병 및 시들음병 방제에 필요하다.,CulturalPractice,토양_소독,CONTROLS,Disease,탄저병/시들음병,관리 방법이 병 발생을 억제,http://purl.obolibrary.org/obo/RO_0008508,

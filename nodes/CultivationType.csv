@@ -1,0 +1,3 @@
+﻿Question_no,term_id,term_ko,label,description
+Q001,T008,비가림_재배,CultivationType,비닐로 비를 가리며 재배하는 방식
+Q001,T010,포트_육묘,CultivationType,포트(화분) 안에서 모종을 키우는 육묘 방법

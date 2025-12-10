@@ -1,0 +1,4 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q006,S084,"딸기 육묘기, 정식 전, 정식기 재배에서 매우 중요하게 관리해야 하며…",Pest,진딧물,OCCURS_DURING,GrowthStage,정식기,정식기 단계에서 진딧물 발생 위험이 높음,https://doi.org/10.1186/s12864-016-2412-8,
+Q003,S050,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),점박이응애,OCCURS_DURING,생육단계(GrowthStage),육묘기,점박이응애가 딸기 육묘기 단계에서 자주 문제 되는 해충이라는 의미,,
+Q003,S053,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),목화진딧물,OCCURS_DURING,생육단계(GrowthStage),육묘기,목화진딧물이 딸기 육묘기에도 지속적으로 발생할 수 있다는 의미,,

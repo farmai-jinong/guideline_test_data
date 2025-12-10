@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q004,S055,육묘기 데이터에 따르면 딸기 재배 시 주로 다음과 같은 생리장해가 발생할 수 있습니다.,Disorder,질소_결핍,EXISTS_DURING,GrowthStage,육묘기,질소 결핍은 딸기 육묘기 단계에서 문제가 되기 쉬운 생리장해임,,
+Q004,S056,육묘기 데이터에 따르면 딸기 재배 시 주로 다음과 같은 생리장해가 발생할 수 있습니다.,Disorder,칼슘_결핍,EXISTS_DURING,GrowthStage,육묘기,칼슘 결핍도 딸기 육묘기에 자주 발생하는 생리장해임,,

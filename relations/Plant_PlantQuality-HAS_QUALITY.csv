@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q001,S018,"자묘는 최소 40일 이상 육묘하며, 60~70일 사이 묘령 확보가 우량묘 생산에 유리하다.",Plant,자묘,HAS_QUALITY,PlantQuality,우량묘,육묘 관리를 잘하면 우량묘(좋은 품질의 묘)를 생산할 수 있다는 의미,,

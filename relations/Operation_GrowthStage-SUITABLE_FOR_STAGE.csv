@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q001,S012,육묘 시 하엽을 자주 제거하는 적엽 작업은 흰가루병과 응애 발생을 감소시킨다.,Operation,적엽,SUITABLE_FOR_STAGE,GrowthStage,육묘기,적엽 작업이 특히 육묘기에 권장됨,,

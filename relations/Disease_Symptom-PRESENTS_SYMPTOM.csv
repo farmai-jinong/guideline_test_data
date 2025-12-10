@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q005,S076,탄저병은 런너와 엽병에 붉은 반점이 생기며 관부가 갈변합니다.,Disease,탄저병,PRESENTS_SYMPTOM,Symptom,"붉은_반점,_관부_갈변",병 특징적 증상,https://doi.org/10.1093/database/baq029,
+Q005,S082,시들음병은 관부 적갈색 변색과 뿌리 썩음을 일으킵니다.,Disease,시들음병,PRESENTS_SYMPTOM,Symptom,"관부_적갈변,_뿌리썩음",병 증상,https://doi.org/10.1093/database/baq029,

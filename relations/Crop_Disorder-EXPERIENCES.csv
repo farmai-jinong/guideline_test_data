@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q010,S109,9월 딸기 재배 시 주요 생리장해는 팁번이다.,Crop,딸기,EXPERIENCES,Disorder,팁번,특정 작물에 특정 생리장해가 발생함을 표현,,링크: 해당 관계 사용한 논문 링크 달라고 챗gpt에 요청해서 받은 링크. 링크 속 논문에 해당 관계 존재하는지 확인 작업 필요

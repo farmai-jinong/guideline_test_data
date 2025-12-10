@@ -1,0 +1,3 @@
+﻿Question_no,term_id,term_ko,label,description
+Q001,T011,자묘,Plant,"런너에서 나온 자묘(자식묘, 새 식물체)"
+Q001,T013,모주,Plant,자묘를 만들어내는 어미 식물체

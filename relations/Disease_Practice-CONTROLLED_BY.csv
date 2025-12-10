@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q005,S083,시들음병 발생 시 태양열 소독으로 병원균 밀도를 낮출 수 있습니다.,Disease,시들음병,CONTROLLED_BY,Practice,태양열_소독,방제 기술,https://doi.org/10.1007/978-3-030-39804-2,

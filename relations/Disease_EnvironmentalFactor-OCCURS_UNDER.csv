@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q008,S094,눈마름병은 25℃ 전후의 온도와 다습한 조건에서 발생한다.,Disease,눈마름병,OCCURS_UNDER,EnvironmentalFactor,"25°C,_다습",병이 특정 환경에서 주로 발생,https://doi.org/10.3897/BDJ.6.e27581,
+Q008,S095,탄저병은 고온다습 환경(26~28℃)에서 주로 발생한다.,Disease,탄저병,OCCURS_UNDER,EnvironmentalFactor,"고온다습,_26–28°C",병 발생 조건을 명확히 제시,https://doi.org/10.3897/BDJ.6.e27581,

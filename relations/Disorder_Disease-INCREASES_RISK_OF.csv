@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q007,S093,정식기에 팁번이 발생하면 잿빛곰팡이병과 흰가루병의 발병 확률이 높아진다.,Disorder,팁번,INCREASES_RISK_OF,Disease,"잿빛곰팡이병,_흰가루병",팁번이 병 발생 위험 요인으로 작용함,,

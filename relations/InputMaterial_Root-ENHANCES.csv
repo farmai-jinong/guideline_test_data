@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q010,S115,발근제는 뿌리 생육을 강화한다.,InputMaterial,발근제,ENHANCES,Root,뿌리,입력 자재가 생육 요소를 증가시키는 기능적 관계,,

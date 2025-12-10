@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q009,S103,파밤나방은 8월 이후 고온 시기에 많이 나타난다.,Pest,파밤나방,OCCURS_UNDER,EnvironmentalFactor,고온,발생 조건을 설명하는 관계,https://doi.org/10.3897/BDJ.6.e27581,

@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q004,S057,질소 결핍: 새로운 잎의 생육이 억제되고 잎이 작아지며 소엽화가 나타납니다.,Disorder,질소_결핍,HAS_SYMPTOM,Symptom,"소엽화,_잎_생육_억제","질소 결핍의 대표적인 증상(소엽화, 잎 생육 저하)을 연결",,
+Q004,S058,질소 결핍: 시든 잎의 엽색이 빠르게 저하되고 신엽으로 진행되는 엽병 적색화가 나타납니다.,Disorder,질소_결핍,HAS_SYMPTOM,Symptom,"엽색_저하,_엽병_적색화",질소 결핍 시 엽색 연화와 엽병 적색화가 나타난다는 정보,,

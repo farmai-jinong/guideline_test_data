@@ -1,0 +1,7 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q001,S008,자묘가 많아 런너를 수시로 제거하여 통기성을 유지해야 한다.,GrowthStage,육묘기,HAS_RECOMMENDED_OPERATION,Operation,런너_제거,육묘기에는 런너 제거 작업이 필요함,,
+Q004,S065,질소 결핍 응급 대처로 질소 엽면살포와 관주가 언급됩니다.,GrowthStage,육묘기,HAS_RECOMMENDED_OPERATION,Operation,질소_엽면시비/관주,육묘기 질소 결핍 발생 시 응급 조치로 질소 엽면시비/관주가 권장된다는 의미,,
+Q004,S066,시설재배 시 추비 중심의 계획적인 시용과 정식 전 양질의 유기물을 다량 시용하여 토양 지력을 높이는 것이 중요합니다.,GrowthStage,육묘기,HAS_RECOMMENDED_OPERATION,Operation,계획적_추비,육묘기 장기 관리를 위해 계획적 추비가 필요하다는 정보,,
+Q004,S067,시설재배 시 추비 중심의 계획적인 시용과 정식 전 양질의 유기물을 다량 시용하여 토양 지력을 높이는 것이 중요합니다.,GrowthStage,육묘기,HAS_RECOMMENDED_OPERATION,Operation,양질_유기물_다량_시용,정식 전 육묘 단계에서 양질 유기물 시용이 권장된다는 의미,,
+Q004,S071,육묘기 동안 주기적인 칼슘 공급과 철저한 수분 관리를 통해 칼슘 결핍을 예방해야 합니다.,GrowthStage,육묘기,HAS_RECOMMENDED_OPERATION,Operation,칼슘_공급,육묘기 단계에서 칼슘 공급 작업이 반복적으로 권장된다는 의미,,
+Q004,S072,육묘기 동안 주기적인 칼슘 공급과 철저한 수분 관리를 통해 칼슘 결핍을 예방해야 합니다.,GrowthStage,육묘기,HAS_RECOMMENDED_OPERATION,Operation,수분_관리_강화,육묘기 단계에서 수분 관리 강화가 중요한 권장 관리라는 정보,,

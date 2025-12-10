@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q001,S009,자묘가 많아 런너를 수시로 제거하여 통기성을 유지해야 한다.,Operation,런너_제거,IMPROVES_CONDITION,Condition,통기성,런너 제거로 통기성을 좋게 함 (원하면 relation을 IMPROVES_CONDITION로 정의),,

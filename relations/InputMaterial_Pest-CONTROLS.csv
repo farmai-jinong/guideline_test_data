@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q009,S107,끈끈이 트랩은 총채벌레 방제에 사용된다.,InputMaterial,끈끈이트랩,CONTROLS,Pest,총채벌레,자재가 해충을 억제하는 기능적 관계,http://purl.obolibrary.org/obo/RO_0008508,

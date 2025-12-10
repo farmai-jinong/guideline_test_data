@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q003,S051,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),점박이응애,AFFECTS_CROP,작물(Crop),딸기,점박이응애가 딸기 잎에 황화·낙엽·잎 마름 피해를 주는 해충이라는 의미,,
+Q003,S054,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),목화진딧물,AFFECTS_CROP,작물(Crop),딸기,목화진딧물이 흡즙·감로·바이러스 전염으로 딸기 생육과 상품성을 떨어뜨린다는 의미,,

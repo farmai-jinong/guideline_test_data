@@ -1,0 +1,12 @@
+﻿Question_no,term_id,term_ko,label,description
+Q006,T084,고온_환경,EnvironmentalFactor,8월 이후 고온 등 해충 발생을 증가시키는 온도 조건
+Q006,T085,습도,EnvironmentalFactor,총채벌레·점박이응애 발생에 영향을 주는 환경 요인
+Q008,T100,25°C,EnvironmentalFactor,병 발생을 촉진하는 온도 조건
+Q008,T101,다습,EnvironmentalFactor,높은 상대습도 환경
+Q008,T103,26–28°C,EnvironmentalFactor,탄저병 발생 최적 온도
+Q008,T104,토양_과습,EnvironmentalFactor,시들음병 감염을 증가시키는 환경
+Q009,T115,고온,EnvironmentalFactor,해충 발생을 증가시키는 환경 요인
+Q009,T116,건조,EnvironmentalFactor,진딧물 번식을 촉진하는 환경 요인
+Q009,T117,습도_50-60%,EnvironmentalFactor,총채벌레가 선호하는 조건
+Q010,T124,배지_pH,EnvironmentalFactor,배지의 산도 수준을 나타내며 뿌리 흡수 환경에 영향을 줌
+Q010,T125,EC,EnvironmentalFactor,배지 또는 양액의 전기전도도 값으로 염류 농도를 의미

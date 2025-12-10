@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q006,S085,다양한 바이러스 병 매개,Pest,진딧물,VECTOR_OF,Disease,바이러스병,진딧물은 식물 바이러스를 전염시키는 매개체,https://doi.org/10.1186/2041-1480-4-19,

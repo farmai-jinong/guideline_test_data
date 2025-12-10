@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q010,S114,2화방부터는 추가 칼슘 공급이 중요하다.,FlowerCluster,2화방,REQUIRES,Nutrient,칼슘,생육 단계가 특정 양분 공급을 요구,,

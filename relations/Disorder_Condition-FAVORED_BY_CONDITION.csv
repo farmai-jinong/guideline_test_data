@@ -1,0 +1,4 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q004,S059,"생육 도중 비료 부족, 미숙 유기물 과다 시용으로 인한 미생물 활동 증가가 질소 유실을 일으킬 수 있습니다.",Disorder,질소_결핍,FAVORED_BY_CONDITION,Condition,비료_부족,비료가 부족한 조건에서 질소 결핍이 잘 발생함,,
+Q004,S060,"생육 도중 비료 부족, 미숙 유기물 과다 시용으로 인한 미생물 활동 증가가 질소 유실을 일으킬 수 있습니다.",Disorder,질소_결핍,FAVORED_BY_CONDITION,Condition,미숙_유기물_과다_시용,미숙 유기물을 많이 넣으면 미생물 활동 증가로 질소 결핍 위험이 커짐,,
+Q004,S061,부식 함량이 적은 사질토양에서 질소 유실이 발생할 수 있습니다.,Disorder,질소_결핍,FAVORED_BY_CONDITION,Condition,사질토양_질소_유실,사질토양에서 질소가 쉽게 씻겨 나가면 질소 결핍이 생기기 쉬움,,

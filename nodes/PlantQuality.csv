@@ -1,0 +1,3 @@
+﻿Question_no,term_id,term_ko,label,description
+Q001,T026,우량묘,PlantQuality,생육이 좋고 건강한 묘
+Q002,T038,무병묘,PlantQuality,병해가 없는 건강한 묘

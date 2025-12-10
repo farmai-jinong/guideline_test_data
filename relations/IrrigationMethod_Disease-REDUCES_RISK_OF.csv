@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q001,S020,저면관수 육묘법 사용 시 탄저병 예방 효과가 높다.,IrrigationMethod,저면관수,REDUCES_RISK_OF,Disease,탄저병,저면관수가 관수 방식 중 탄저병 예방에 유리함,,

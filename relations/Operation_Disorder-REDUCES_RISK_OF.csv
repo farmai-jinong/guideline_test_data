@@ -1,0 +1,7 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q001,S019,육묘 하우스 환기와 온도 관리에 주의하여 고온 피해를 예방한다.,Operation,환기_관리,REDUCES_RISK_OF,Disorder,고온_피해,환기 관리를 통해 고온 피해를 줄임,,
+Q004,S062,응급 대처: 질소를 포함한 다량원소 비료를 물에 희석하여 엽면 살포하거나 토양에 관주합니다.,Operation,질소_엽면시비/관주,REDUCES_RISK_OF,Disorder,질소_결핍,질소 엽면시비·관주 작업이 질소 결핍 증상을 완화하는 관리임,,
+Q004,S063,사질토양에서는 비료 유실을 막기 위해 여러 번 나누어 시용하는 것이 효과적입니다.,Operation,계획적_추비,REDUCES_RISK_OF,Disorder,질소_결핍,여러 번 나누어 주는 계획적 추비가 질소 결핍 발생 위험을 줄임,,
+Q004,S064,시설재배 시 추비 중심의 계획적인 시용과 정식 전 양질의 유기물을 다량 시용하여 토양 지력을 높이는 것이 중요합니다.,Operation,양질_유기물_다량_시용,REDUCES_RISK_OF,Disorder,질소_결핍,양질 유기물을 충분히 넣으면 토양 지력이 올라가 질소 결핍이 덜 발생함,,
+Q004,S069,육묘기 동안 주기적인 칼슘 공급과 철저한 수분 관리를 통해 칼슘 결핍을 예방해야 합니다.,Operation,칼슘_공급,REDUCES_RISK_OF,Disorder,칼슘_결핍,주기적인 칼슘 공급이 칼슘 결핍 발생을 줄이는 예방 관리임,,
+Q004,S070,육묘기 동안 주기적인 칼슘 공급과 철저한 수분 관리를 통해 칼슘 결핍을 예방해야 합니다.,Operation,수분_관리_강화,REDUCES_RISK_OF,Disorder,칼슘_결핍,수분 관리를 철저히 하면 칼슘 이동이 원활해져 칼슘 결핍이 줄어듦,,
