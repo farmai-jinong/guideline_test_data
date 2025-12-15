@@ -1,2 +1,2 @@
-﻿Question_no,term_id,term_ko,label,description
-Q001,T001,딸기,Crop,"딸기(Fragaria × ananassa), 국내 주요 시설 및 노지에서 재배되는 작물"
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q001,T001,딸기,Crop,작물,"딸기(Fragaria × ananassa), 국내 주요 시설 및 노지에서 재배되는 작물"

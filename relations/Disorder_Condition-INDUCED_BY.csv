@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q010,S111,"팁번은 낮은 온도, 수분 부족, 질소 과다, 과번무 등의 환경 요인으로 발생한다.",Disorder,팁번,INDUCED_BY,Condition,환경_요인들,환경 요인이 생리장해를 유발,,

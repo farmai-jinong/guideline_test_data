@@ -1,3 +1,3 @@
 ﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
 Q005,S074,탄저병은 Colletotrichum gloeosporioides와 C. acutatum에 의해 발생합니다.,Disease,탄저병,CAUSED_BY,Pathogen,Colletotrichum_gloeosporioides,병원균-병 인과 관계,https://doi.org/10.1093/bioinformatics/btm254,
-Q005,S080,시들음병은 Fusarium oxysporum f. sp. fragariae에 의해 발생합니다.,Disease,시들음병,CAUSED_BY,Pathogen,Fusarium_oxysporum_f._sp._fragariae,병원균 인과 관계,https://doi.org/10.1093/bioinformatics/btm254,
+Q005,S080,시들음병은 Fusarium oxysporum f. sp. fragariae에 의해 발생합니다.,Disease,시들음병,CAUSED_BY,Pathogen,시들음병,병원균 인과 관계,https://doi.org/10.1093/bioinformatics/btm254,

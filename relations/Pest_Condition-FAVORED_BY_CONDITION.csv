@@ -1,5 +1,5 @@
 ﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
-Q003,S047,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),점박이응애,FAVORED_BY_CONDITION,조건(Condition),고온건조,고온·건조한 환경에서 점박이응애 발생 위험이 커진다는 의미,,
-Q003,S048,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),점박이응애,FAVORED_BY_CONDITION,조건(Condition),20~28℃,20~28℃ 온도 범위에서 점박이응애가 가장 활발히 활동한다는 의미,,
-Q003,S049,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),점박이응애,FAVORED_BY_CONDITION,조건(Condition),50~80%_습도,상대습도 50~80%에서 점박이응애 활동이 왕성하다는 의미,,
-Q003,S052,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,해충(Pest),목화진딧물,FAVORED_BY_CONDITION,조건(Condition),건조,강우가 적고 건조한 조건에서 목화진딧물 번식이 특히 왕성하다는 의미,,
+Q003,S047,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,Pest,점박이응애,FAVORED_BY_CONDITION,Condition,고온건조,고온·건조한 환경에서 점박이응애 발생 위험이 커진다는 의미,,
+Q003,S048,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,Pest,점박이응애,FAVORED_BY_CONDITION,Condition,20~28℃,20~28℃ 온도 범위에서 점박이응애가 가장 활발히 활동한다는 의미,,
+Q003,S049,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,Pest,점박이응애,FAVORED_BY_CONDITION,Condition,50~80%_습도,상대습도 50~80%에서 점박이응애 활동이 왕성하다는 의미,,
+Q003,S052,딸기 육묘기에는 주로 어떤 해충이 발생하는지 알려줘.,Pest,목화진딧물,FAVORED_BY_CONDITION,Condition,건조,강우가 적고 건조한 조건에서 목화진딧물 번식이 특히 왕성하다는 의미,,

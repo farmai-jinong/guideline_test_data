@@ -1,2 +1,0 @@
-﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
-Q008,S097,시들음병은 과습 시 쉽게 감염될 수 있다.,Disease,시들음병,FAVORED_BY,EnvironmentalFactor,토양_과습,환경 요인이 병 발생을 촉진,https://agrovoc.fao.org/browse,

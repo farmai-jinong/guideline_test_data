@@ -1,5 +1,5 @@
-﻿Question_no,term_id,term_ko,label,description
-Q005,T067,붉은_반점,Symptom,탄저병 증상 중 하나
-Q005,T068,관부_갈변,Symptom,탄저병·시들음병 증상
-Q005,T069,말라죽음,Symptom,중증 병 피해 결과
-Q005,T070,생육_위축,Symptom,시들음병 주요 피해 증상
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q005,T010,붉은_반점,Symptom,증상,탄저병 증상 중 하나
+Q005,T011,관부_갈변,Symptom,증상,탄저병·시들음병 증상
+Q005,T012,고사,Symptom,증상,중증 병 피해 결과
+Q005,T001,생육_위축,Symptom,증상,시들음병 주요 피해 증상

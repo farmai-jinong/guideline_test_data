@@ -1,2 +1,3 @@
-﻿Question_no,term_id,term_ko,label,description
-Q008,T109,약제(살균제),Chemical,병 방제에 사용하는 약제
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q008,T004,살균제,Chemical,약제,병 방제에 사용하는 약제
+Q010,T011,발근제,Chemical,약제,뿌리 생육 향상을 위해 사용하는 생육조절제

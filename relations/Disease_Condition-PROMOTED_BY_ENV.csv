@@ -1,0 +1,3 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q005,S075,탄저병은 고온다습한 환경에서 발생 위험이 높습니다.,Disease,탄저병,PROMOTED_BY_ENV,Condition,고온다습_환경,환경 요인이 발생 증가,https://doi.org/10.3897/journals/abot/1/20357,
+Q005,S081,정식 직후 과습하면 시들음병에 쉽게 감염됩니다.,Disease,시들음병,PROMOTED_BY_ENV,Condition,과습,환경 스트레스 유발,https://doi.org/10.3897/journals/abot/1/20357,

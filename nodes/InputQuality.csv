@@ -1,2 +1,2 @@
-﻿Question_no,term_id,term_ko,label,description
-Q002,T040,미숙퇴비,InputQuality,"완전히 부숙되지 않은 퇴비, 토양병 발생을 높일 수 있음"
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q002,T007,미숙퇴비,InputQuality,투입재,"완전히 부숙되지 않은 퇴비, 토양병 발생을 높일 수 있음"

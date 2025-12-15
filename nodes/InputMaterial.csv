@@ -1,3 +1,2 @@
-﻿Question_no,term_id,term_ko,label,description
-Q009,T118,끈끈이_트랩,InputMaterial,해충 유인·포획용 관리 자재
-Q010,T127,발근제,InputMaterial,뿌리 생육 향상을 위해 사용하는 생육조절제
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q009,T001,끈끈이_트랩,InputMaterial,투입자재,해충 유인·포획용 관리 자재

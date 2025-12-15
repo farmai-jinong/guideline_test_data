@@ -1,7 +1,7 @@
-﻿Question_no,term_id,term_ko,label,description
-Q002,T041,Rhizoctonia_solani,Pathogen,딸기 잘록병을 일으키는 주요 토양 곰팡이 병원균
-Q002,T042,Pythium_spp.,Pathogen,잘록병과 뿌리썩음증상을 유발하는 난균류 병원균
-Q002,T043,Fusarium_oxysporum_f._sp._fragariae,Pathogen,딸기 시들음병의 원인 곰팡이 병원균
-Q002,T044,Rhizopus_stolonifer,Pathogen,딸기 무름병을 일으키는 곰팡이 병원균
-Q005,T062,Colletotrichum_gloeosporioides,Pathogen,탄저병 원인 병원균
-Q005,T063,Colletotrichum_acutatum,Pathogen,탄저병 원인 병원균
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q002,T008,Rhizoctonia_solani,Pathogen,병원체,딸기 잘록병을 일으키는 주요 토양 곰팡이 병원균
+Q002,T009,Pythium_spp,Pathogen,병원체,잘록병과 뿌리썩음증상을 유발하는 난균류 병원균
+Q002,T010,Fusarium_oxysporum,Pathogen,병원체,딸기 시들음병의 원인 곰팡이 병원균
+Q002,T011,Rhizopus_stolonifer,Pathogen,병원체,딸기 무름병을 일으키는 곰팡이 병원균
+Q005,T004,Colletotrichum_gloeosporioides,Pathogen,병원체,탄저병 원인 병원균
+Q005,T006,Colletotrichum_acutatum,Pathogen,병원체,탄저병 원인 병원균

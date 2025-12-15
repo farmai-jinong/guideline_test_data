@@ -1,5 +1,5 @@
-﻿Question_no,term_id,term_ko,label,description
-Q001,T002,육묘기간,GrowthStage,딸기 모종을 키우는 기간(육묘기)
-Q001,T003,육묘기,GrowthStage,딸기 모주·자묘를 키우는 생육 단계
-Q005,T059,정식기,GrowthStage,육묘 후 본포에 활착시키는 재배 단계
-Q006,T083,개화기,GrowthStage,꽃이 피는 생육 단계로 바이러스·총채벌레·진딧물 피해가 증가하는 시기
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q001,T002,육묘_기간,GrowthStage,생육단계,딸기 모종을 키우는 기간(육묘기)
+Q001,T003,육묘기,GrowthStage,생육단계,딸기 모주·자묘를 키우는 생육 단계
+Q005,T001,정식기,GrowthStage,생육단계,육묘 후 본포에 활착시키는 재배 단계
+Q006,T003,개화기,GrowthStage,생육단계,꽃이 피는 생육 단계로 바이러스·총채벌레·진딧물 피해가 증가하는 시기

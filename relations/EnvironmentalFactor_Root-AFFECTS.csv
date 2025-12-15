@@ -1,2 +1,0 @@
-﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
-Q010,S113,배지의 pH가 6 이하로 떨어지거나 염류가 쌓이면 뿌리가 약해진다.,EnvironmentalFactor,배지_pH,AFFECTS,Root,뿌리,환경요인이 뿌리 상태를 직접적으로 변화,,

@@ -1,2 +1,2 @@
-﻿Question_no,term_id,term_ko,label,description
-Q006,T090,과실_피해,Damage,해충에 의해 과실 변색·기형·상품성 저하가 발생하는 현상
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q006,T011,과실_피해,Damage,피해,해충에 의해 과실 변색·기형·상품성 저하가 발생하는 현상

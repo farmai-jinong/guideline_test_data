@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q010,S112,10월에는 드리퍼 및 점적관의 EC 값이 설정치보다 높아질 때 팁번이 발생한다.,Disorder,팁번,ASSOCIATED_WITH,Condition,EC_상승,특정 환경 조건과 생리장해 발생이 통계적으로 연관됨,,

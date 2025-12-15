@@ -1,0 +1,2 @@
+﻿Question_no,sample_no,source_text,node1_label,node1_name_ko,relation,node2_label,node2_name_ko,comment_ko,Unnamed: 9,Unnamed: 10
+Q009,S106,총채벌레는 28°C와 50~60% 습도를 선호한다,Pest,총채벌레,PREFERS,Condition,"28°C,_습도",해충이 선호하는 생육 환경,https://doi.org/10.1093/nar/gkw1037,

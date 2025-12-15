@@ -1,2 +1,2 @@
-﻿Question_no,term_id,term_ko,label,description
-Q002,T034,장마철,TimePeriod,"집중 호우가 이어지는 시기, 고온다습 환경과 연결됨"
+﻿Question_no,term_id,term_ko,label,label_ko,description
+Q002,T012,장마철,TimePeriod,기간,"집중 호우가 이어지는 시기, 고온다습 환경과 연결됨"
